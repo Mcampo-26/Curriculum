@@ -19,3 +19,7 @@
     text-align: start;
     vertical-align: top;
 }
+
+html {
+    scroll-behavior: smooth;
+}
