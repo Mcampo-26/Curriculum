@@ -7,3 +7,15 @@
     width: 150px;
     border-radius: 45%;
 }
+
+.fila {
+    display: flex;
+}
+
+.td {
+    font-size: 25px;
+    overflow-block: 20px;
+    padding: 0 80px;
+    text-align: start;
+    vertical-align: top;
+}
